@@ -1,4 +1,4 @@
-
+Enhance Adobe Audition for macOS with new Adobe Audition for macOS Extension | batch-rendering + stream-overlays, the #1 extension. Includes batch-rendering and stream-overlays
 
 
 
